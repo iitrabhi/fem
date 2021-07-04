@@ -9,7 +9,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ## Contents 
 
-- [The matrix approach to bar problem.]()
+- [The matrix approach to bar problem.](https://nbviewer.jupyter.org/github/iitrabhi/fem/blob/main/tutorials/1.matrix_approach_bar_problem.ipynb)
 
 ## Recommended books
 
